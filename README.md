@@ -10,6 +10,7 @@
   </a>
 </p>
 
+---
 
 # Overview
 This GitHub repository, "Caslor", is intended to release closed/open-source projects to the public.
@@ -28,4 +29,3 @@ To download the apps and start using them,
 2. Scroll or click on the app you want to download on the left in the release list
 3. Scroll down until you find the 'Assets' section of the release and download
 the file with a cube on the left of it.
-
