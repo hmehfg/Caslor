@@ -32,4 +32,4 @@ To download the apps and start using them,
 1. go to: <a href="https://github.com/hmehfg/Caslor/releases">Releases</a>
 2. Scroll or click on the app you want to download on the left in the release list
 3. Scroll down until you find the 'Assets' section of the release and download
-the file with a cube on the left of it.
+the .zip file with a cube on the left of it.
