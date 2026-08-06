@@ -21,8 +21,4 @@ the file with a cube on the left of it.
 # Socials
 If you want to join our socials, you can join our Discord server:
 
-<a href="(https://discord.gg/nHCf9pMrQ7)">
-  <kbd> <b>Discord</b> </kbd>
-</a>
-
-
+[<kbd> Discord </kbd>](https://discord.gg/nHCf9pMrQ7)
