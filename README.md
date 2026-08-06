@@ -1,6 +1,10 @@
 <h1 align="center">Caslor</h1>
 
 <p align="center">
+<img src="img/CaslorLogo.png" alt="Alt text" width="200">
+</p>
+
+<p align="center">
   <a href="https://discord.gg/nHCf9pMrQ7">
     <code><b>Discord server</b></code>
   </a>
