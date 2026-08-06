@@ -1,9 +1,9 @@
 <h1 align="center">Caslor</h1>
 
 <p align="center">
-<img src="img/CaslorLogo.png" alt="Alt text" width="200">
+<img src="img/CaslorLogonobg.png" alt="Alt text" width="200"> <!-- No background picture now -->
 </p>
-
+<!-- Discord and latest release buttons -->
 <p align="center">
   <a href="https://discord.gg/nHCf9pMrQ7">
     <code><b>Discord server</b></code>
