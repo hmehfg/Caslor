@@ -1,4 +1,15 @@
-# Caslor
+<h1 align="center">Caslor</h1>
+
+<p align="center">
+  <a href="https://discord.gg/nHCf9pMrQ7">
+    <code><b>Discord server</b></code>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/hmehfg/Caslor/releases/tag/B26P46_v0.11.0">
+    <code><b>Latest release</b></code>
+  </a>
+</p>
+
 
 # Overview
 This GitHub repository, "Caslor", is intended to release closed/open-source projects to the public.
@@ -18,7 +29,3 @@ To download the apps and start using them,
 3. Scroll down until you find the 'Assets' section of the release and download
 the file with a cube on the left of it.
 
-# Socials
-If you want to join our socials, you can join our Discord server:
-
-[<kbd> Discord </kbd>](https://discord.gg/nHCf9pMrQ7)
