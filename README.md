@@ -22,10 +22,8 @@ They serve as basic tools for beginners to use before migrating to more professi
 To use or download the software, go to the Releases page.
 
 # Releases
-## Vantec Video Editor (B26P46 / v0.11.0)
-A non-profit, closed-source, x64 Windows 10–11 video editor currently in Work in Progress (WIP) for testing.
-The goal of this project is to provide beginners with a video editor that has a user-friendly interface with basic tools to get them started with video editing.
-- README.md in release.
+- [Vantec Video Editor Build26P46 v0.11.0](https://github.com/hmehfg/Caslor/releases#release-B26P46_v0.11.0)
+- [Magisteriel GeoBuilder](https://github.com/hmehfg/Caslor/releases#release-Magisteriel_GeoBuilder)
 
 # Download guide
 To download the apps and start using them, 
