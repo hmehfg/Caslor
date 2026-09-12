@@ -24,6 +24,7 @@ To use or download the software, go to the Releases page.
 # Releases
 - [Vantec Video Editor Build26P46 v0.11.0](https://github.com/hmehfg/Caslor/releases#release-B26P46_v0.11.0)
 - [Magisteriel GeoBuilder](https://github.com/hmehfg/Caslor/releases#release-Magisteriel_GeoBuilder)
+  [See more](https://github.com/hmehfg/Caslor/releases)
 
 # Download guide
 To download the apps and start using them, 
